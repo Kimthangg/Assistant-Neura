@@ -1,0 +1,64 @@
+Start datetime mismatch for: 'Tạo lịch dự buổi thuyết trình tại Đại học Bách Khoa vào thứ Tư tuần này lúc 15:00.'
+  Expected: '2025-04-16 15:00:00'
+  Got: '2025-04-09 15:00:00'
+
+End datetime mismatch for: 'Tạo lịch dự buổi thuyết trình tại Đại học Bách Khoa vào thứ Tư tuần này lúc 15:00.'
+  Expected: '2025-04-16 15:00:00'
+  Got: '2025-04-09 15:00:00'
+
+Start datetime mismatch for: 'Đặt lịch đi ăn trưa với đồng nghiệp vào thứ Tư tuần này lúc 12:00.'
+  Expected: '2025-04-16 12:00:00'
+  Got: '2025-04-09 12:00:00'
+
+End datetime mismatch for: 'Đặt lịch đi ăn trưa với đồng nghiệp vào thứ Tư tuần này lúc 12:00.'
+  Expected: '2025-04-16 12:00:00'
+  Got: '2025-04-09 12:00:00'
+
+Start datetime mismatch for: 'Đặt lịch dự tiệc cưới tại Trung tâm Tiệc cưới Diamond Palace vào Chủ Nhật tuần này lúc 18:00.'
+  Expected: '2025-04-13 18:00:00'
+  Got: '2025-04-20 18:00:00'
+
+End datetime mismatch for: 'Đặt lịch dự tiệc cưới tại Trung tâm Tiệc cưới Diamond Palace vào Chủ Nhật tuần này lúc 18:00.'
+  Expected: '2025-04-13 18:00:00'
+  Got: '2025-04-20 18:00:00'
+
+Start datetime mismatch for: 'Đặt lịch dự tiệc cưới tại Trung tâm Tiệc cưới Diamond Palace vào Chủ Nhật tuần này lúc 18:00.'
+  Expected: '2025-04-13 18:00:00'
+  Got: '2025-04-20 18:00:00'
+
+End datetime mismatch for: 'Đặt lịch dự tiệc cưới tại Trung tâm Tiệc cưới Diamond Palace vào Chủ Nhật tuần này lúc 18:00.'
+  Expected: '2025-04-13 18:00:00'
+  Got: '2025-04-20 18:00:00'
+
+Start datetime mismatch for: 'Đặt lịch dự tiệc cưới tại Trung tâm Tiệc cưới Diamond Palace vào Chủ Nhật tuần này lúc 18:00.'
+  Expected: '2025-04-13 18:00:00'
+  Got: '2025-04-20 18:00:00'
+
+End datetime mismatch for: 'Đặt lịch dự tiệc cưới tại Trung tâm Tiệc cưới Diamond Palace vào Chủ Nhật tuần này lúc 18:00.'
+  Expected: '2025-04-13 18:00:00'
+  Got: '2025-04-20 18:00:00'
+
+Start datetime mismatch for: 'Lên lịch gặp khách hàng vào ngày 25 tháng 3 lúc 10 giờ sáng.'
+  Expected: '2025-03-25 10:00:00'
+  Got: '2026-03-25 10:00:00'
+
+End datetime mismatch for: 'Lên lịch gặp khách hàng vào ngày 25 tháng 3 lúc 10 giờ sáng.'
+  Expected: '2025-03-25 10:00:00'
+  Got: '2026-03-25 10:00:00'
+
+Start datetime mismatch for: 'Đặt lịch dự tiệc cưới tại Trung tâm Tiệc cưới Diamond Palace vào Chủ Nhật tuần này lúc 18:00.'
+  Expected: '2025-04-20 18:00:00'
+  Got: '2025-04-13 18:00:00'
+
+End datetime mismatch for: 'Đặt lịch dự tiệc cưới tại Trung tâm Tiệc cưới Diamond Palace vào Chủ Nhật tuần này lúc 18:00.'
+  Expected: '2025-04-20 18:00:00'
+  Got: '2025-04-13 18:00:00'
+
+Start datetime mismatch for: 'Đặt lịch dự tiệc cưới tại Trung tâm Tiệc cưới Diamond Palace vào Chủ Nhật tuần này lúc 18:00.'
+  Expected: '2025-04-20 18:00:00'
+  Got: '2025-04-13 18:00:00'
+
+End datetime mismatch for: 'Đặt lịch dự tiệc cưới tại Trung tâm Tiệc cưới Diamond Palace vào Chủ Nhật tuần này lúc 18:00.'
+  Expected: '2025-04-20 18:00:00'
+  Got: '2025-04-13 18:00:00'
+

@@ -1,0 +1,28 @@
+[ERROR] Failed for input: 'Lên lịch gặp khách hàng vào ngày 25 tháng 3 lúc 10 giờ sáng.'
+  Expected start_datetime: 2024-03-25 10:00:00, but got: 2025-03-25 10:00:00
+[ERROR] Failed for input: 'Lên lịch gặp khách hàng vào ngày 25 tháng 3 lúc 10 giờ sáng.'
+  Expected end_datetime: 2024-03-25 10:00:00, but got: 2025-03-25 10:00:00
+[ERROR] Failed for input: 'Lên lịch đi làm căn cước công dân vào ngày 10 tháng 6 lúc 8:00.'
+  Expected start_datetime: 2024-06-10 08:00:00, but got: 2025-06-10 08:00:00
+[ERROR] Failed for input: 'Lên lịch đi làm căn cước công dân vào ngày 10 tháng 6 lúc 8:00.'
+  Expected end_datetime: 2024-06-10 08:00:00, but got: 2025-06-10 08:00:00
+[ERROR] Failed for input: 'Lên lịch gặp khách hàng vào ngày 25 tháng 3 lúc 10 giờ sáng.'
+  Expected start_datetime: 2024-03-25 10:00:00, but got: 2025-03-25 10:00:00
+[ERROR] Failed for input: 'Lên lịch gặp khách hàng vào ngày 25 tháng 3 lúc 10 giờ sáng.'
+  Expected end_datetime: 2024-03-25 10:00:00, but got: 2025-03-25 10:00:00
+[ERROR] Failed for input: 'Đặt lịch ăn tối với bạn vào thứ Sáu tuần này lúc 19:30.'
+  Expected start_datetime: 2025-04-12 19:30:00, but got: 2025-04-11 19:30:00
+[ERROR] Failed for input: 'Đặt lịch ăn tối với bạn vào thứ Sáu tuần này lúc 19:30.'
+  Expected end_datetime: 2025-04-12 19:30:00, but got: 2025-04-11 19:30:00
+[ERROR] Failed for input: 'Lên lịch đi phỏng vấn vào thứ Ba lúc 14:00.'
+  Expected start_datetime: 2025-04-16 14:00:00, but got: 2025-04-15 14:00:00
+[ERROR] Failed for input: 'Lên lịch đi phỏng vấn vào thứ Ba lúc 14:00.'
+  Expected end_datetime: 2025-04-16 14:00:00, but got: 2025-04-15 14:00:00
+[ERROR] Failed for input: 'Đặt lịch ăn tối với bạn vào thứ Sáu tuần này lúc 19:30.'
+  Expected start_datetime: 2025-04-12 19:30:00, but got: 2025-04-11 19:30:00
+[ERROR] Failed for input: 'Đặt lịch ăn tối với bạn vào thứ Sáu tuần này lúc 19:30.'
+  Expected end_datetime: 2025-04-12 19:30:00, but got: 2025-04-11 19:30:00
+[ERROR] Failed for input: 'Lên lịch đi phỏng vấn vào thứ Ba lúc 14:00.'
+  Expected start_datetime: 2025-04-16 14:00:00, but got: 2025-04-15 14:00:00
+[ERROR] Failed for input: 'Lên lịch đi phỏng vấn vào thứ Ba lúc 14:00.'
+  Expected end_datetime: 2025-04-16 14:00:00, but got: 2025-04-15 14:00:00
