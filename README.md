@@ -2,6 +2,9 @@
 
 Neura là một ứng dụng trợ lý ảo giúp người dùng quản lý lịch và sự kiện thông qua giao diện chat trực quan. Ứng dụng sử dụng kỹ thuật xử lý ngôn ngữ tự nhiên (NLP) để hiểu yêu cầu của người dùng và thực hiện các thao tác với Google Calendar.
 
+## Demo
+https://github.com/user-attachments/assets/6b9fa701-62ae-4ee4-8bec-e3e211a289a4
+
 ## Tổng quan hệ thống
 
 Hệ thống Neura được chia thành hai phần chính:
